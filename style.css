@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.vertGrid {
+    display: flex;
+}
+
+.horzGrid {
+    border:1px solid #000;
+    flex:1;
+}
+
+#board {
+    margin: auto;
+    height: 640px;
+    width: 640px;
+}
